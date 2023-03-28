@@ -1,0 +1,10 @@
+.addPost {
+    padding: 15px 34px;
+    background: teal;
+    color: white;
+}
+
+.enterPost {
+    width:500px;
+    padding: 15px 34px; 
+}
